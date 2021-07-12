@@ -4,8 +4,8 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ExplicitArchitecture;
-using ExplicitArchitecture.TuneSearchExample.Core.Ports;
+using CommonPorts;
+using MusicPorts;
 using ExplicitArchitecture.TuneSearchExample.MockCore;
 using Xamarin.Forms;
 
